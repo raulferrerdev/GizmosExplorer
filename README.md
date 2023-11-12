@@ -20,7 +20,7 @@ Easily deploy this theme to Netlify with a single click, and conveniently update
 
 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/unfolding-io/nebulix#BLOG_SLUG=blog&PORTFOLIO_SLUG=work&SHOP_SLUG=shop&MENU_SLUG=menu&WEBSITE_LANGUAGE=en&CURRENCY=USD&UNITS=metric&NODE_VERSION=18)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/unfolding-io/nebulix#BLOG_SLUG=blog&PORTFOLIO_SLUG=workHOME_SLUG=home&PETS_SLUG=pets&OFFICE_SLUG=office&PHONE_SLUG=phone&GAME_SLUG=game&TRAVEL_SLUG=travel&COMPUTER_SLUG=computer&SHOP_SLUG=shop&MENU_SLUG=menu&WEBSITE_LANGUAGE=en&CURRENCY=USD&UNITS=metric&NODE_VERSION=18)
 
 
 ## Constellations of Features:
